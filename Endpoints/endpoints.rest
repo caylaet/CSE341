@@ -1,0 +1,5 @@
+
+# Returns all posts in a JSON Object
+# posts: [{ title: 'First Post', content: 'This is the first post!' }]
+GET http://localhost:8080/professional
+
